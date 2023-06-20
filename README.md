@@ -11,7 +11,7 @@
 
 ## Professor
 
-- Will Machado
+- Will Ricardo dos Santos Machado
 
 # Código
 
