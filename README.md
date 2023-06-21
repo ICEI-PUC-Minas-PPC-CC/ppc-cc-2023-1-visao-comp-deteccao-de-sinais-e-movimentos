@@ -1,8 +1,8 @@
-# TÍTULO DO PROJETO
+# Reconhecimento gestos
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: Visão computacional`
+`2023 - Semestre 1`
 
 ## Integrantes
 
